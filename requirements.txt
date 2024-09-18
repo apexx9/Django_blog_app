@@ -1,0 +1,8 @@
+Django~=4.2.11
+
+#install a virtual environment -> python -n venv myenv
+#install django pip install -m django~=version
+#creating a django project -> django-admin.exe startproject name ./
+#starting a web server -> python manage.py runserver
+#creating another application in the backend root directory -> python manage.py startapp blog
+#creating a superuser -> python manage.py createsuperuser
